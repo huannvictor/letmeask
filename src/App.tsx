@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import { BrowserRouter, Route} from 'react-router-dom';
 
 import { Home } from "./pages/Home";
 import { NewRoom } from "./pages/NewRoom";
@@ -10,15 +10,13 @@ function App() {
 
 
   return (
-    <Router>
-      <AuthContextProvider>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path='/rooms/new' element={<NewRoom />} />
-          <Route path='/rooms/:id' element={<Room />} />
-        </Routes>
-      </AuthContextProvider>
-    </Router>
+    <BrowserRouter>
+    <AuthContextProvider>
+      <Route path="/" exact component={Home} />
+      <Route path="/rooms/new" component={NewRoom} />
+      <Route path="/rooms/new" component={Room} />
+    </AuthContextProvider>
+  </BrowserRouter>
   );
 }
 
