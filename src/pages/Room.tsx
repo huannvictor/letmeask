@@ -1,4 +1,4 @@
-import { FormEvent, useState } from 'react'
+import { FormEvent, useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 
 import { Button } from '../components/Button'
@@ -20,6 +20,14 @@ export function Room() {
   const [newQuestion, setNowQuestion] = useState("")
 
   const roomId = params.id;
+
+  useEffect(() => {
+    const roomRef = database.ref(`rooms/${roomId}`)
+
+    roomRef.once('value', room => {
+      console.log(room.val())
+    })
+  })
 
   async function handleSendQuestion(event: FormEvent){
     event.preventDefault()
