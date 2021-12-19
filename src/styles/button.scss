@@ -2,7 +2,7 @@
   height: 50px;
   border-radius: 8px;
   font-weight: 500;
-  background: #835adf;
+  background: #835afd;
   color: #fff;
   padding: 0 32px;
   display: flex;
@@ -16,12 +16,18 @@
     margin-right: 8px;
   }
 
-  &:not(:disabled):hover {
-    filter: opacity(0.9);
+  &.outlined {
+    background: #fff;
+    border: 1px solid #835afd;
+    color: #835afd;
   }
 
-  &:disabled{
-    opacity: .6;
+  &:not(:disabled):hover {
+    filter: opacity(0.6);
+  }
+
+  &:disabled {
+    opacity: 0.6;
     cursor: not-allowed;
   }
 }
