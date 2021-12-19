@@ -129,6 +129,6 @@ export function Room() {
   )
 }
 
-function hasLiked(id: string, hasLiked: any): void {
-  throw new Error('Function not implemented.')
-}
+// function hasLiked(id: string, hasLiked: any): void {
+//   throw new Error('Function not implemented.')
+// }
