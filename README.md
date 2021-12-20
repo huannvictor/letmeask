@@ -4,7 +4,7 @@
 <h2 align="center">Sobre o projeto: Letmeask</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/huannvictor/letmeask/master/src/assets/images/logo.svg" alt="Logo letmeask">
+<img src="https://raw.githubusercontent.com/huannvictor/letmeask/master/src/assets/images/logoreadme.svg" alt="Logo letmeask">
 </div>
 
 <p align="justify">
@@ -20,7 +20,6 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
   <img src="https://img.shields.io/badge/-React-9cf" alt="React Js">
   <img src="https://img.shields.io/badge/-TypeScript-blue" alt="Typescript">
   <img src="https://img.shields.io/badge/-Sass-blueviolet" alt="Sass">
-  <img src="https://img.shields.io/badge/-Firebase-orange" alt="FireBase"> 
 </div>
 
 <h2 align="center">Bibliotecas & Utilitários</h2>
@@ -30,18 +29,18 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
     <img src="https://img.shields.io/badge/Engine-NodeJS-green" alt="NodeJs">
   </a>
 
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/Engine-Yarn-green" alt="Yearn">
+  <a href="https://yarnpkg.com/">
+    <img src="https://img.shields.io/badge/Engine-Yarn-green" alt="Yarn">
   </a> 
 
-  <a href="https://fonts.google.com/">
-    <img src="https://img.shields.io/badge/Biblioteca-GoogleFonts-blue" alt="Google Fonts">
-  </a>
+  <a href="https://firebase.google.com/?hl=pt">
+    <img src="https://img.shields.io/badge/Engine-Firebase-green" alt="Firebase">
+  </a> 
 </div>
 
 <h2 align="center">Layout</h2>
 <div align="center">
-  <img alt="OriginSix" src="https://raw.githubusercontent.com/huannvictor/rocketQ/master/public/images/layout.png" width="100%">
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/huannvictor/rocketQ/master/public/images/layout.png" width="100%">
 
   <p>
     Mais sobre o layour do projeto acesse o figma <a href="https://www.figma.com/community/file/1009821158959690135">aqui</a>
