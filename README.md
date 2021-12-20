@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/huannvictor/rocketQ/master/public/images/nlwTogether.svg"></h1> 
+<h1 align="center"> <img src="https://raw.githubusercontent.com/huannvictor/letmeask/master/src/assets/images/nlwTogether.svg"></h1> 
 
 
 <h2 align="center">Sobre o projeto: Letmeask</h2>
@@ -40,10 +40,10 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
 
 <h2 align="center">Layout</h2>
 <div align="center">
-  <img alt="Letmeask" src="https://raw.githubusercontent.com/huannvictor/rocketQ/master/public/images/layout.png" width="100%">
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/huannvictor/letmeask/master/src/assets/images/cover.svg" width="100%">
 
   <p>
-    Mais sobre o layour do projeto acesse o figma <a href="https://www.figma.com/community/file/1009821158959690135">aqui</a>
+    Mais sobre o layour do projeto acesse o figma <a href="https://www.figma.com/community/file/1009824839797878169">aqui</a>
   </p>
 </div>
 
