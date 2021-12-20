@@ -13,35 +13,26 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
 </p>
 
 <h2>Tempo dedicado ao projeto:</h2>
-
+<a href="https://wakatime.com/badge/user/5a2e9d27-6aba-49b5-9755-f97369431e1e/project/0c5199f3-8e67-434d-b610-8a352ff0afcc"><img src="https://wakatime.com/badge/user/5a2e9d27-6aba-49b5-9755-f97369431e1e/project/0c5199f3-8e67-434d-b610-8a352ff0afcc.svg" alt="wakatime"></a>
 
 <h2 align="center">Tecnologias</h2>
 <div align="center" style="display: inline">
-  <img src="https://img.shields.io/badge/%20-HTML5-orange" alt="HTML5">
-  <img src="https://img.shields.io/badge/%20-CSS3-blue" alt="CSS3"> 
-  <img src="https://img.shields.io/badge/%20-JavaScript-yellow" alt="JS">
+  <img src="https://img.shields.io/badge/-React-9cf" alt="React Js">
+  <img src="https://img.shields.io/badge/-TypeScript-blue" alt="Typescript">
+  <img src="https://img.shields.io/badge/-Sass-blueviolet" alt="Sass">
+  <img src="https://img.shields.io/badge/-Firebase-orange" alt="FireBase"> 
 </div>
 
-<h2 align="center">Bibliotecas & Utiliários</h2>
+<h2 align="center">Bibliotecas & Utilitários</h2>
 <div align="center" style="display: inline">
 
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Engine-NodeJS-green" alt="NodeJs">
   </a>
 
-  <a href="https://ejs.co/">
-    <img src="https://img.shields.io/badge/Engine-EJS-green" alt="Ejs">
-  </a>
-  
-  </a>
-    <a href="https://expressjs.com/pt-br/">
-    <img src="https://img.shields.io/badge/Biblioteca-Express-blue" alt="Express">
-  </a>
-  
-  </a>
-    <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/Biblioteca-SQLite-blue" alt="SQLite">
-  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Engine-Yarn-green" alt="Yearn">
+  </a> 
 
   <a href="https://fonts.google.com/">
     <img src="https://img.shields.io/badge/Biblioteca-GoogleFonts-blue" alt="Google Fonts">
