@@ -43,7 +43,7 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
   <img alt="Letmeask" src="https://raw.githubusercontent.com/huannvictor/letmeask/master/src/assets/images/cover.svg" width="100%">
 
   <p>
-    Mais sobre o layour do projeto acesse o figma <a href="https://www.figma.com/community/file/1009824839797878169">aqui</a>
+    Mais sobre o layout do projeto acesse o figma <a href="https://www.figma.com/community/file/1009824839797878169">aqui</a>
   </p>
 </div>
 
