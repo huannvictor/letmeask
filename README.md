@@ -54,8 +54,8 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/huannvictor/letmeask.git
+$ cd letmeask
 ```
 
 Para iniciá-lo, siga os passos abaixo:
